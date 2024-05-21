@@ -1,0 +1,50 @@
+/* Write your CSS here */
+/* Common styles */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-size: 16px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.button:focus {
+  outline: none;
+}
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.dark-mode .button {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Light mode styles */
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.light-mode .button {
+  background-color: #000000;
+  color: #ffffff;
+}
