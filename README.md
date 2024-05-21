@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Light Dark Mode** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -80,3 +81,6 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Light-Dark-Mode
+>>>>>>> 1750726c720d1673d650ac60e9cc779488e81f31
